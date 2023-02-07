@@ -1,4 +1,5 @@
 name: "our-website"
+<<<<<<< HEAD
 navbar:
   title: "Our Collaborative Website"
   left:
@@ -7,3 +8,14 @@ navbar:
     - text: "About"
       href: about.html
 output_dir: "."
+=======
+navbar: 
+  title: "Our Collaborative Website"
+  left: 
+    - text: 
+      href: index.html
+    -text: "About"
+     href: about.html
+output_dir: "."
+    
+>>>>>>> 08a16885ee5ed9a9c1eb4365e18035c68e23793e
